@@ -1,0 +1,10 @@
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+core.eol=lf
+core.autocrlf=input
+user.name=ruan
+user.email=ruanvictordelia11@gmali.com
