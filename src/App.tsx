@@ -11,7 +11,7 @@ export function App() {
   console.log('Olá');
   return (
     <>
-      <Heading />
+      <Heading attr={123} attr2='String'>Olá Ruan</Heading>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
     </>
   );
